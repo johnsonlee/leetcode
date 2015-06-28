@@ -1,11 +1,3 @@
-# LeetCode
-
-## Algorithms
-
-## Database
-
-## Shell
-
 |  #  | Title                                                                     | Solution                                                                                            | Difficulty |
 |:---:|:--------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------|:-----------|
 | 195 | [Tenth Line](https://leetcode.com/problems/tenth-line/)                   | [Solution](https://github.com/johnsonlee/leetcode/blob/master/shell/tenth-line/solution.sh)         | Easy       |
