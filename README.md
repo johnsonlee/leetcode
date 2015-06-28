@@ -2,6 +2,10 @@
 
 ## Algorithms
 
+|  #  | Title                                                                     | Solution                                                                                                | Difficulty |
+|:---:|:--------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------|:-----------|
+| 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/)           | [Java](https://github.com/johnsonlee/leetcode/blob/master/algorithms/summary-ranges/Solution.java)      | Easy       |
+
 ## Database
 
 ## Shell
